@@ -1,0 +1,11 @@
+[2014-11-07 18:49:17][2332][D:\xampp\htdocs\123\liuyanban\model\SqlDbException.php][__construct][15][ERROR][1500] other error! | 操作失败Unknown column 'userId' in 'where clause'
+[2014-11-07 18:49:47][2332][D:\xampp\htdocs\123\liuyanban\model\SqlDbException.php][__construct][15][ERROR][1500] other error! | 操作失败Unknown column 'userId' in 'where clause'
+[2014-11-07 18:50:15][2332][D:\xampp\htdocs\123\liuyanban\model\SqlDbException.php][__construct][15][ERROR][1500] other error! | 操作失败Unknown column 'ofawzuP0ZRBozKjb5P69bpccWXMU' in 'where clause'
+[2014-11-07 18:50:28][2332][D:\xampp\htdocs\123\liuyanban\model\SqlDbException.php][__construct][15][ERROR][1500] other error! | 操作失败Unknown column 'ofawzuP0ZRBozKjb5P69bpccWXMU' in 'where clause'
+[2014-11-07 18:51:23][2332][D:\xampp\htdocs\123\liuyanban\model\SqlDbException.php][__construct][15][ERROR][1500] other error! | 操作失败Unknown column 'ofawzuP0ZRBozKjb5P69bpccWXMU' in 'where clause'
+[2014-11-07 19:03:07][2332][D:\xampp\htdocs\123\liuyanban\model\SqlDbException.php][__construct][15][ERROR][1500] other error! | 操作失败You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select max(id) from wx_test where userId=ofawzuP0ZRBozKjb5P69bpccWXMU' at line 1
+[2014-11-07 19:06:52][2332][D:\xampp\htdocs\123\liuyanban\model\SqlDbException.php][__construct][15][ERROR][1500] other error! | 操作失败You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select max(id) from wx_test where userId='ofawzuP0ZRBozKjb5P69bpccWXMU'' at line 1
+[2014-11-07 20:09:25][2332][D:\xampp\htdocs\123\liuyanban\index.php][main][28][ERROR][1500] other error! | malicious(恶意的): 127.0.0.1
+[2014-11-07 20:09:45][2332][D:\xampp\htdocs\123\liuyanban\index.php][main][28][ERROR][1500] other error! | malicious(恶意的): 127.0.0.1
+[2014-11-07 20:09:47][2332][D:\xampp\htdocs\123\liuyanban\index.php][main][28][ERROR][1500] other error! | malicious(恶意的): 127.0.0.1
+[2014-11-07 20:09:47][2332][D:\xampp\htdocs\123\liuyanban\index.php][main][28][ERROR][1500] other error! | malicious(恶意的): 127.0.0.1
